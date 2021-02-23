@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Tatiana Katia
+
+
+## Olá!!!!
+Sou uma eterna aprendiz e apaixonada em aprender. :heart: :sailboat:
+Tenho estudado com foco em desenvolvimento  para atuar como FullStack Developer.
+
